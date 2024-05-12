@@ -9,7 +9,7 @@ const DataTable = () => {
   return (
     <div>
       <div className="container mx-auto">
-        <h1 className="text-xl font-bold mb-4">Dta parsed successfully</h1>
+        <h1 className="text-xl font-bold mb-4">Data parsed successfully</h1>
         <table className="table-auto">
           <thead>
             <tr>

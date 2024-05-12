@@ -7,6 +7,6 @@ In this project use Tailwind CSS and Daisy UI For design And text data convert t
 
 ## Best practices - Use readable file formate, Use custom hook this hook return the json data.we can use this hook any component for data show.Its work like a global state we can use this data anywhere .
 
-Project live link -
+I spent 3 hours for this project
 
-My personal best project git link -
+My personal best project git link - https://github.com/Mahmudul-Islam-Ovi/grocery-bazaar-client
